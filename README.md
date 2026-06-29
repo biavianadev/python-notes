@@ -141,13 +141,6 @@ topico-principal/
 
 ### Estudos Futuros
 
-* Testes Automatizados
-* Ambientes Virtuais
-* Logging
-* Programação Assíncrona
-* Desenvolvimento de APIs
-* Computação Científica Avançada
-
 ---
 
 ## Observações
